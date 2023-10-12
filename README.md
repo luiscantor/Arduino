@@ -1,11 +1,17 @@
 ## Arduino CLI
 
 $ curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh
+
 $ chmod a+x bin/arduino-cli
+
 $ ./arduino-cli core update-index
+
 $ ./arduino-cli core install arduino:avr
+
 $ ./arduino-cli core search
+
 $ ./arduino-cli board list
+
 $ ./arduino-cli sketch new Blink
 
 
