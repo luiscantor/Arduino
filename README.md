@@ -18,10 +18,12 @@ $ ./arduino-cli sketch new Blink
 
 ### Board List
 $ ./arduino-cli board list
+```
 Puerto       Protocolo Tipo              Nombre de la placa FQBN            Núcleo
+
 /dev/ttyACM0 serial    Serial Port (USB) Arduino Uno        arduino:avr:uno arduino:avr
 /dev/ttyAMA0 serial    Serial Port       Unknown
-
+```
 
 
 ### Compile
