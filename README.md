@@ -27,7 +27,7 @@ Puerto       Protocolo Tipo              Nombre de la placa FQBN            Núc
 
 
 ### Compile
-$ ./arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno Blink/
+$ ./arduino-cli compile --fqbn arduino:avr:uno Blink/
 
 
 
