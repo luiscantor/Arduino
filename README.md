@@ -47,3 +47,4 @@ https://www.arduino.cc/en/Guide/ArduinoUno
 https://solectroshop.com/es/content/70-como-hacer-un-detector-de-movimiento-con-arduino-y-el-sensor-hc-sr501
 https://hackerspace-ffm.de/wiki/index.php?title=Arduino_IDE_like_serial_monitor_in_the_Raspberry_Pi_shell
 https://www.makerguides.com/es/how-to-blink-an-led-using-arduino-4-different-ways/
+https://www.youtube.com/watch?v=jU_b8WBTUew
