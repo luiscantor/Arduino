@@ -1,12 +1,12 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "INFINITUM043F";
-const char* password = "VdJ5NtfG4Q";
-const char* mqttServer = "192.168.1.73";
+const char* ssid = "<ssid>";
+const char* password = "<internet_password>";
+const char* mqttServer = "<raspberry_pi_ip>";
 const int mqttPort = 1883;
-const char* mqttUser = "mqtt_user";
-const char* mqttPassword = "mlatrleb#";
+const char* mqttUser = "<mqtt_user>";
+const char* mqttPassword = "<mqtt_password>";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
